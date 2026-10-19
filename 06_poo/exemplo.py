@@ -38,3 +38,4 @@ print(celular2.bateria)
 #usamos objeto.metodo()
 celular2.ligar()
 celular2.desligar()
+
